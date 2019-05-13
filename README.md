@@ -16,7 +16,8 @@ sudo npm install -g cast-to-tv-config
 ```
 
 ## Usage
-Simply run `cast-to-tv-config` in terminal and answer shown questions.<br>
+Run `cast-to-tv-config` in terminal and answer shown questions. After that open extension preferences (Cast Settings) and select your device in Chromecast tab.
+
 Results are saved into Cast to TV extension folder, so there is no need to run it every time.<br>
 Please note that launching devices scan in extension prefs will overwrite config file.
 
