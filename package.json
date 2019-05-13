@@ -1,0 +1,27 @@
+{
+  "name": "cast-to-tv-config",
+  "version": "1.0.0",
+  "description": "Manually configure Chromecast IP address for GNOME Shell Extension Cast to TV.",
+  "main": "index.js",
+  "bin": {
+    "cast-to-tv-config": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rafostar/cast-to-tv-config.git"
+  },
+  "keywords": [
+    "gnome-shell-extension",
+    "chromecast",
+    "cast-to-tv"
+  ],
+  "author": "Rafostar",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Rafostar/cast-to-tv-config/issues"
+  },
+  "homepage": "https://github.com/Rafostar/cast-to-tv-config#readme"
+}
