@@ -4,6 +4,8 @@
 
 Manually configure Chromecast IP address for GNOME Shell Extension Cast to TV.
 
+Requires Cast to TV version 9 or later.
+
 This app is for those with unstable network connection where mdns scan does not always provide results.
 Connecting to Chromecast by IP might also help those with unusual network configuration (e.g. VPN).
 When configured connection is established using destination IP rather than getting device by name, thus network scan in extension is skipped entirely.
