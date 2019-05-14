@@ -46,7 +46,7 @@ async function configure()
 	devices[id] = { name: name, friendlyName: fn, ip: ip };
 	id++;
 
-	var answer = await askQuestion('Add another device?(y/N): ');
+	var answer = await askQuestion('Add another device? [y/N]: ');
 	answer = answer.toLowerCase();
 
 	if(answer == 'y' || answer == 'yes') configure();
