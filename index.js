@@ -6,7 +6,6 @@ const homedir = require('os').homedir();
 const confDir = `${homedir}/.local/share/gnome-shell/extensions/cast-to-tv@rafostar.github.com/config`;
 
 var devices = [];
-var data = {};
 var id = 0;
 
 var myInterface = readline.createInterface({
