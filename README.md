@@ -2,6 +2,8 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=TFVDFD88KQ322)
 [![Donate](https://img.shields.io/badge/Donate-PayPal.Me-lightgrey.svg)](https://www.paypal.me/Rafostar)
 
+## Cast to TV v11 has built-in IP configuration inside extension prefs. This package no longer works.
+
 Manually configure Chromecast IP address for GNOME Shell Extension Cast to TV.
 
 Requires Cast to TV version 9 or later.
